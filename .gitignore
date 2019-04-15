@@ -90,3 +90,6 @@ cabal.sandbox.config
 .stack-work/
 cabal.project.local
 .HTF/
+
+# SQLite database file
+*.db
